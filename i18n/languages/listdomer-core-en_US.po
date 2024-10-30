@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Listdomer Core\n"
+"POT-Creation-Date: 2024-09-04 12:30-0700\n"
+"PO-Revision-Date: 2024-09-04 12:30-0700\n"
+"Last-Translator: Totalery <info@totalery.com>\n"
+"Language-Team: Webilia <info@webilia.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x;_ex;esc_attr__;"
+"esc_attr_e;esc_attr_x;_n;_nx\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: .sass-cache\n"
+
+#: app/includes/customizer.php:51
+msgid "Header"
+msgstr ""
+
+#: app/includes/customizer.php:52
+msgid "Manage header options."
+msgstr ""
+
+#: app/includes/customizer.php:59
+msgid "Sidebars"
+msgstr ""
+
+#: app/includes/customizer.php:60
+msgid "Manage sidebar options."
+msgstr ""
+
+#: app/includes/customizer.php:67
+msgid "Widgets"
+msgstr ""
+
+#: app/includes/customizer.php:68
+msgid "Manage widget options."
+msgstr ""
+
+#: app/includes/customizer.php:75
+msgid "Blog"
+msgstr ""
+
+#: app/includes/customizer.php:76
+msgid "Manage blog options."
+msgstr ""
+
+#: app/includes/customizer.php:83
+msgid "Single Listing"
+msgstr ""
+
+#: app/includes/customizer.php:84
+msgid "Manage single listing options."
+msgstr ""
+
+#: app/includes/customizer.php:91
+msgid "Footer"
+msgstr ""
+
+#: app/includes/customizer.php:92
+msgid "Manage footer options."
+msgstr ""
+
+#: app/includes/customizer.php:99
+msgid "Codes"
+msgstr ""
+
+#: app/includes/customizer.php:100
+msgid "CSS / JS Codes."
+msgstr ""
+
+#: app/includes/customizer.php:118
+msgid "Language Switcher"
+msgstr ""
+
+#: app/includes/customizer.php:121
+msgid ""
+"Display WPML language switcher in the header. It works only when WPML is "
+"installed and configured correctly."
+msgstr ""
+
+#: app/includes/customizer.php:134
+msgid "Add Listing Button"
+msgstr ""
+
+#: app/includes/customizer.php:137
+msgid "Links to add listing form."
+msgstr ""
+
+#: app/includes/customizer.php:150
+msgid "Login & Register"
+msgstr ""
+
+#: app/includes/customizer.php:153
+msgid "Display login & register form in the header."
+msgstr ""
+
+#: app/includes/customizer.php:166
+msgid "Login Redirection Page"
+msgstr ""
+
+#: app/includes/customizer.php:169
+msgid "Redirection page after user login."
+msgstr ""
+
+#: app/includes/customizer.php:182
+msgid "Register Redirection Page"
+msgstr ""
+
+#: app/includes/customizer.php:185
+msgid ""
+"Redirection page after user registration. You can use this page to say thank "
+"you and guide the users to use your website."
+msgstr ""
+
+#: app/includes/customizer.php:198
+msgid "Social Login Shortcode"
+msgstr ""
+
+#: app/includes/customizer.php:201
+msgid ""
+"You can place social login shortcodes here. Please note that you should "
+"configure the social plugin correctly otherwise you may do not see anything "
+"as output."
+msgstr ""
+
+#: app/includes/customizer.php:220
+msgid "After Header"
+msgstr ""
+
+#: app/includes/customizer.php:223
+msgid ""
+"You can use it for your google analytics tracking code. Remember to include "
+"the entire script from google."
+msgstr ""
+
+#: app/includes/elementor.php:50 app/includes/menus.php:33
+msgid "Listdomer"
+msgstr ""
+
+#: app/includes/elementor/base.php:34
+msgid "Post Type"
+msgstr ""
+
+#: app/includes/elementor/base.php:47
+msgid "Navigation"
+msgstr ""
+
+#: app/includes/elementor/base.php:50
+msgid "Dots"
+msgstr ""
+
+#: app/includes/elementor/base.php:51
+msgid "Next / Previous Buttons"
+msgstr ""
+
+#: app/includes/elementor/base.php:60
+msgid "Autoplay"
+msgstr ""
+
+#: app/includes/elementor/base.php:69
+msgid "Loop"
+msgstr ""
+
+#: app/includes/elementor/base.php:78
+msgid "Items"
+msgstr ""
+
+#: app/includes/elementor/carousel.php:22
+msgid "Content Carousel"
+msgstr ""
+
+#: app/includes/elementor/carousel.php:41
+#: app/includes/elementor/carousel.php:68 app/includes/elementor/posts.php:41
+#: app/includes/elementor/testimonials.php:41
+#: app/includes/elementor/testimonials.php:63
+#: app/includes/elementor/tiny.php:41
+msgid "Content"
+msgstr ""
+
+#: app/includes/elementor/carousel.php:50
+msgid "Number"
+msgstr ""
+
+#: app/includes/elementor/carousel.php:59
+#: app/includes/elementor/testimonials.php:89
+#: app/includes/elementor/tiny.php:71 app/includes/widgets/contact.php:73
+msgid "Title"
+msgstr ""
+
+#: app/includes/elementor/carousel.php:61
+#: app/includes/elementor/carousel.php:82
+#: app/includes/elementor/carousel.php:87
+#: app/includes/elementor/carousel.php:92
+#: app/includes/elementor/carousel.php:97
+#: app/includes/elementor/carousel.php:102
+msgid "How it works"
+msgstr ""
+
+#: app/includes/elementor/carousel.php:76
+msgid "Slides"
+msgstr ""
+
+#: app/includes/elementor/carousel.php:83
+#: app/includes/elementor/carousel.php:88
+#: app/includes/elementor/carousel.php:93
+#: app/includes/elementor/carousel.php:98
+#: app/includes/elementor/carousel.php:103
+#: app/includes/elementor/testimonials.php:65
+#: app/includes/elementor/testimonials.php:103
+#: app/includes/elementor/testimonials.php:109
+#: app/includes/elementor/testimonials.php:115
+#: app/includes/elementor/testimonials.php:121
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: app/includes/elementor/posts.php:22
+msgid "Posts"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:22
+#: app/includes/elementor/testimonials.php:98
+msgid "Testimonials"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:49
+#: app/includes/elementor/tiny.php:49
+msgid "Style"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:52
+#: app/includes/elementor/tiny.php:52
+msgid "Style 1"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:53
+#: app/includes/elementor/tiny.php:53
+msgid "Style 2"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:72
+#: app/includes/elementor/tiny.php:63
+msgid "Image"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:80
+msgid "Name"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:82
+#: app/includes/elementor/testimonials.php:105
+#: app/includes/elementor/testimonials.php:111
+#: app/includes/elementor/testimonials.php:117
+#: app/includes/elementor/testimonials.php:123
+msgid "John Smith"
+msgstr ""
+
+#: app/includes/elementor/testimonials.php:91
+#: app/includes/elementor/testimonials.php:106
+#: app/includes/elementor/testimonials.php:112
+#: app/includes/elementor/testimonials.php:118
+#: app/includes/elementor/testimonials.php:124
+msgid "CEO"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:22
+msgid "Tiny Image"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:54
+msgid "Style 3"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:73
+msgid "97%"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:80
+msgid "Subtitle"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:82
+msgid "Happy Clients"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:89
+msgid "Icon"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:97
+msgid "Video"
+msgstr ""
+
+#: app/includes/elementor/tiny.php:99
+msgid "If you insert video URL, it will show instead of the icon."
+msgstr ""
+
+#: app/includes/hooks.php:81
+msgid "Claim It Now!"
+msgstr ""
+
+#: app/includes/menus.php:34
+msgid "Documentation"
+msgstr ""
+
+#: app/includes/menus.php:35
+msgid "Support"
+msgstr ""
+
+#: app/includes/menus.php:37
+msgid "Go Pro"
+msgstr ""
+
+#: app/includes/ocdi.php:56
+msgid "Listdomer Demo 1"
+msgstr ""
+
+#: app/includes/ocdi.php:57
+msgid "Listing Directory"
+msgstr ""
+
+#: app/includes/ocdi.php:194 app/includes/ocdi.php:195
+msgid "Demo Import"
+msgstr ""
+
+#: app/includes/ocdi.php:209
+msgid "Listdomer Demo Importer"
+msgstr ""
+
+#: app/includes/theme.php:28
+msgid "Listdomer Two buttons"
+msgstr ""
+
+#: app/includes/theme.php:29
+msgid ""
+"Listdomer Two horizontal buttons, the left button is filled in, and the "
+"right button is outlined."
+msgstr ""
+
+#: app/includes/theme.php:30
+msgid "Button One"
+msgstr ""
+
+#: app/includes/theme.php:30
+msgid "Button Two"
+msgstr ""
+
+#: app/includes/theme.php:39
+msgid "Listdomer Button"
+msgstr ""
+
+#: app/includes/theme.php:44
+msgid "Listdomer Table"
+msgstr ""
+
+#: app/includes/theme.php:117
+msgid "Add Listing"
+msgstr ""
+
+#: app/includes/theme.php:188 app/includes/theme.php:189
+#: app/includes/theme.php:227 app/includes/theme.php:228
+msgid "Username"
+msgstr ""
+
+#: app/includes/theme.php:190 app/includes/theme.php:191
+msgid "Password"
+msgstr ""
+
+#: app/includes/theme.php:195
+msgid "Lost your password?"
+msgstr ""
+
+#: app/includes/theme.php:196
+msgid "Remember Me"
+msgstr ""
+
+#: app/includes/theme.php:199
+msgid "Sign In"
+msgstr ""
+
+#: app/includes/theme.php:203
+msgid "Don't have an account?"
+msgstr ""
+
+#: app/includes/theme.php:204
+msgid "Create Account"
+msgstr ""
+
+#: app/includes/theme.php:229 app/includes/theme.php:230
+#: app/includes/widgets/contact.php:51 app/includes/widgets/contact.php:78
+#: templates/bookables.php:137 templates/elements/owner.php:82
+#: templates/team.php:81
+msgid "Email"
+msgstr ""
+
+#: app/includes/theme.php:233
+msgid "Registration confirmation will be emailed to you."
+msgstr ""
+
+#: app/includes/theme.php:236
+msgid "Register"
+msgstr ""
+
+#: app/includes/theme.php:239
+msgid "Have an account?"
+msgstr ""
+
+#: app/includes/theme.php:240
+msgid "Signin"
+msgstr ""
+
+#: app/includes/theme.php:255
+msgid "Or sign up with"
+msgstr ""
+
+#: app/includes/widgets/contact.php:20
+msgid "(Listdomer) Contact"
+msgstr ""
+
+#: app/includes/widgets/contact.php:20
+msgid "A simple contact details widget to include in footer"
+msgstr ""
+
+#: app/includes/widgets/contact.php:50 app/includes/widgets/contact.php:83
+#: templates/bookables.php:127 templates/elements/owner.php:75
+#: templates/team.php:74
+msgid "Phone"
+msgstr ""
+
+#: app/includes/widgets/contact.php:88
+msgid "Facebook"
+msgstr ""
+
+#: app/includes/widgets/contact.php:93
+msgid "Twitter"
+msgstr ""
+
+#: app/includes/widgets/contact.php:98
+msgid "Instagram"
+msgstr ""
+
+#: app/includes/widgets/contact.php:103
+msgid "Linkedin"
+msgstr ""
+
+#: templates/bookables.php:26
+msgid "Checkin"
+msgstr ""
+
+#: templates/bookables.php:27
+msgid "Checkout"
+msgstr ""
+
+#: templates/bookables.php:28
+msgid "Period"
+msgstr ""
+
+#: templates/bookables.php:28
+#, php-format
+msgid "%s night"
+msgstr ""
+
+#: templates/bookables.php:30
+msgid "Click total price to see price details."
+msgstr ""
+
+#: templates/bookables.php:71
+msgid "Available"
+msgstr ""
+
+#: templates/bookables.php:71
+msgid "Soldout"
+msgstr ""
+
+#: templates/bookables.php:71
+msgid "Not Available"
+msgstr ""
+
+#: templates/bookables.php:81
+#, php-format
+msgid "Only %s slot remained."
+msgstr ""
+
+#: templates/bookables.php:102
+#, php-format
+msgid "Not available from %s to %s"
+msgstr ""
+
+#: templates/bookables.php:117
+msgid "Full Name"
+msgstr ""
+
+#: templates/bookables.php:123
+msgid "Enter your name"
+msgstr ""
+
+#: templates/bookables.php:133
+msgid "Enter your phone number"
+msgstr ""
+
+#: templates/bookables.php:143
+msgid "Enter your email address"
+msgstr ""
+
+#: templates/bookables.php:149
+msgid "Optional Message"
+msgstr ""
+
+#: templates/bookables.php:166
+msgid "Book"
+msgstr ""
+
+#: templates/elements/owner.php:89 templates/team.php:88
+msgid "Mobile"
+msgstr ""
+
+#: templates/elements/owner.php:96 templates/team.php:95
+msgid "Website"
+msgstr ""
+
+#: templates/elements/owner.php:103 templates/team.php:102
+msgid "Fax"
+msgstr ""
+
+#: templates/elements/owner.php:119 templates/elements/owner.php:120
+msgid "Your Name"
+msgstr ""
+
+#: templates/elements/owner.php:131 templates/elements/owner.php:132
+msgid "Your Email"
+msgstr ""
+
+#: templates/elements/owner.php:143 templates/elements/owner.php:144
+msgid "Your Phone"
+msgstr ""
+
+#: templates/elements/owner.php:156
+msgid "I'm interested in ...."
+msgstr ""
+
+#: templates/elements/owner.php:157
+msgid "Your Message"
+msgstr ""
+
+#: templates/elements/owner.php:164
+msgid "Send"
+msgstr ""
+
+#: templates/single/style2.php:47
+msgid "Verified"
+msgstr ""
+
+#: templates/single/style2.php:64
+msgid "Submit a Review"
+msgstr ""
+
+#: templates/taxonomy-shortcodes/clean.php:11
+#: templates/taxonomy-shortcodes/image.php:24
+#: templates/taxonomy-shortcodes/simple.php:12
+msgid "No item found!"
+msgstr ""
+
+#: templates/taxonomy-shortcodes/clean.php:31
+#: templates/taxonomy-shortcodes/clean.php:44
+#: templates/taxonomy-shortcodes/image.php:38
+#: templates/taxonomy-shortcodes/simple.php:22
+#: templates/taxonomy-shortcodes/simple.php:34
+#, php-format
+msgid "%s Listings"
+msgstr ""
